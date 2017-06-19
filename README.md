@@ -3,6 +3,8 @@ This application is a demo to show the implementation of a [parallax](http://mat
 Is usable in web and mobile environments, and could be used in Angular applications without any modification.
 Is optimized to be used in mobile applications, but can be changed easily.
 
+![Dependencies status](https://david-dm.org/dnchia/Ionic3-Parallax-Header.svg)
+
 ## How it works
 All the implementation is done in a [@Directive](https://angular.io/guide/attribute-directives), that can be used anywhere inside the application.
 
